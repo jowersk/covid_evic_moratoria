@@ -1,0 +1,51 @@
+"State","State Abbreviation","State FIPS Code","First_Date_Effect_1","First_Date_Effect_2","First_Date_Effect_3","Last_Date_Effect_1","Last_Date_Effect_2","Last_Date_Effect_3"
+"Alabama","AL","01",2020-04-03,NA,NA,2020-07-07,NA,NA
+"Alaska","AK","02",2020-03-23,2020-04-10,NA,2020-04-03,2020-06-30,NA
+"Arizona","AZ","04",2020-03-24,NA,NA,2020-10-31,NA,NA
+"California","CA","06",2020-03-16,NA,NA,2021-01-31,NA,NA
+"Colorado","CO","08",2020-03-20,2020-10-21,NA,2020-06-13,2021-01-31,NA
+"Connecticut","CT","09",2020-03-16,2020-12-23,NA,2020-09-13,2021-06-30,NA
+"Delaware","DE","10",2020-03-17,NA,NA,2020-09-11,NA,NA
+"District of Columbia","DC","11",2020-03-15,NA,NA,2022-04-01,NA,NA
+"Florida","FL","12",2020-03-24,NA,NA,2020-09-30,NA,NA
+"Georgia","GA","13",2020-03-14,NA,NA,2020-05-20,NA,NA
+"Hawaii","HI","15",2020-03-16,NA,NA,2021-08-06,NA,NA
+"Idaho","ID","16",2020-03-16,NA,NA,2020-04-30,NA,NA
+"Illinois","IL","17",2020-03-21,NA,NA,2021-10-03,NA,NA
+"Indiana","IN","18",2020-03-19,NA,NA,2020-08-14,NA,NA
+"Iowa","IA","19",2020-03-19,NA,NA,2020-05-27,NA,NA
+"Kansas","KS","20",2020-03-16,NA,NA,2021-01-26,NA,NA
+"Kentucky","KY","21",2020-03-16,NA,NA,2020-08-25,NA,NA
+"Louisiana","LA","22",2020-03-17,NA,NA,2020-06-15,NA,NA
+"Maine","ME","23",2020-03-18,NA,NA,2020-08-03,NA,NA
+"Maryland","MD","24",2020-03-16,2020-10-16,NA,2020-08-30,2021-06-15,NA
+"Massachusetts","MA","25",2020-03-13,NA,NA,2020-10-17,NA,NA
+"Michigan","MI","26",2020-03-20,NA,NA,2020-07-15,NA,NA
+"Minnesota","MN","27",2020-03-20,NA,NA,2021-06-30,NA,NA
+"Mississippi","MS","28",NA,NA,NA,NA,NA,NA
+"Missouri","MO","29",NA,NA,NA,NA,NA,NA
+"Montana","MT","30",2020-03-30,NA,NA,2020-05-24,NA,NA
+"Nebraska","NE","31",2020-03-25,NA,NA,2020-05-31,NA,NA
+"Nevada","NV","32",2020-03-30,NA,NA,2020-10-14,NA,NA
+"New Hampshire","NH","33",2020-03-17,NA,NA,2020-06-30,NA,NA
+"New Jersey","NJ","34",2020-03-16,NA,NA,2021-08-03,NA,NA
+"New Mexico","NM","35",2020-03-24,NA,NA,2022-02-01,NA,NA
+"New York","NY","36",2020-03-20,NA,NA,2021-05-01,NA,NA
+"North Carolina","NC","37",2020-03-13,NA,NA,2020-06-30,NA,NA
+"North Dakota","ND","38",NA,NA,NA,NA,NA,NA
+"Ohio","OH","39",2020-03-27,NA,NA,2020-07-30,NA,NA
+"Oklahoma","OK","40",2020-03-16,NA,NA,2020-05-15,NA,NA
+"Oregon","OR","41",2020-03-08,NA,NA,2021-12-31,NA,NA
+"Pennsylvania","PA","42",2020-03-19,NA,NA,2020-08-31,NA,NA
+"Rhode Island","RI","44",2020-03-17,NA,NA,2020-05-31,NA,NA
+"South Carolina","SC","45",2020-03-17,NA,NA,2020-05-14,NA,NA
+"South Dakota","SD","46",NA,NA,NA,NA,NA,NA
+"Tennessee","TN","47",2020-03-13,NA,NA,2020-05-31,NA,NA
+"Texas","TX","48",2020-03-19,NA,NA,2020-05-07,NA,NA
+"Utah","UT","49",2020-04-01,NA,NA,2020-05-16,NA,NA
+"Vermont","VT","50",2020-03-17,NA,NA,2021-07-15,NA,NA
+"Virginia","VA","51",2020-03-16,2020-06-08,2020-08-10,2020-05-17,2020-06-28,2020-09-07
+"Washington","WA","53",2020-03-18,NA,NA,2021-10-31,NA,NA
+"West Virginia","WV","54",2020-03-23,NA,NA,2020-05-17,NA,NA
+"Wisconsin","WI","55",2020-03-27,NA,NA,2020-05-26,NA,NA
+"Wyoming","WY","56",NA,NA,NA,NA,NA,NA

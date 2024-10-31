@@ -187,11 +187,15 @@ str(wide_data)
 write.csv(wide_data, "wide_data.csv", row.names = FALSE)
 
 
-repo <- init(".")  # Initialize Git repository in the current directory
+##### Git Operations #####
+# Initialize repository connection
+repo <- repository(".")
 
-add(repo, ".")   # Stages all files for a new commit
-commit(repo, "Reset and re-add all files for initial commit") 
+# Stage changes
+add(repo, ".")
 
-push(repo, refspec = "refs/heads/main", credentials = creds, set_upstream = TRUE)
+# Commit changes
+commit(repo, "Updated eviction policy data analysis")
 
-
+# Push to GitHub using upstream credentials
+push(repo, "origin", "refs/heads/master", set_upstream = TRUE)
